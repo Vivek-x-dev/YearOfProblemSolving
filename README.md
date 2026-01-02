@@ -56,7 +56,6 @@ Problems are selected from:
 - ⭐ **LeetCode** 
 - Codeforces
 - CodeChef
-- AtCoder
 - GeeksforGeeks
 - Other DSA / Competitive Programming platforms
 
