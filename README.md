@@ -57,7 +57,7 @@ Problems are selected from:
 - Codeforces
 - CodeChef
 - GeeksforGeeks
-- Other DSA / Competitive Programming platforms
+- Other DSA Problems
 
 ---
 
