@@ -25,9 +25,9 @@ int main()
         power = power * 2;
     }
 
-    cout << "Answer is :" << ans << endl;
+    cout << "Answer is :" << ans << endl ;
     return 0;
 }
 
 /* if anyone want to share there opinion
- or want to suggest any optimised approach please do share in community.*/
+ or want to suggest any optimised approach please do share  in community.*/
