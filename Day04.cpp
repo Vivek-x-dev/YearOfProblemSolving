@@ -32,7 +32,9 @@ int main()
     int n = sizeof(arr) / sizeof(arr[0]);
     int key = 16;
 
-    cout << binarySearch(arr, n, key) << endl; // Output: 4
+    cout << binarySearch(arr, n, key) << endl; 
     return 0;
 }
+
+// i would like to talk if you have any suggestion for  optimization 
 
