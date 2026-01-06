@@ -1,5 +1,5 @@
 /*
-Question : print a subarrays of arrays
+Question : print  subarrays of arrays
 [2,55,17,4,13,27,8,2] 
 
 */
