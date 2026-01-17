@@ -24,5 +24,4 @@ int main() {
    cout << "Maximum element: " << maxVal(arr , 3 , 3 ) << endl;
     
    return 0;
-
 }
