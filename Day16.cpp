@@ -5,7 +5,7 @@ Input:
 10 11 16 20
 23 30 34 60
 
-key =11
+key =16
 */
 #include <iostream>
 using namespace std;
@@ -29,9 +29,8 @@ int main() {
         {23, 30, 34, 60}
     };
 
-    int key = 11;
+    int key = 16;
     search(arr, 3, 4, key);
-
+    cout<<endl;
     return 0;
 }
-// Output: Found at index (0,0) 
