@@ -13,13 +13,14 @@ using namespace std;
 void search(int arr[][4], int r, int c, int key) {
     for (int i = 0; i < r; i++) {
         for (int j = 0; j < c; j++) {
+
             if (arr[i][j] == key) {
-                cout << "Found at index (" << i << "," << j << ")";
+                cout << "Key Found at index (" << i << "," << j << ")";
                 return;
             }
         }
     }
-    cout << "Not Found";
+    cout << "Key Not Found";
 }
 
 int main() {
@@ -34,4 +35,4 @@ int main() {
     cout<<endl;
     return 0;
 }
-// Output: Found at index (1,2)
+// Output: Key Found at index (1,2)
