@@ -34,3 +34,4 @@ int main() {
     cout<<endl;
     return 0;
 }
+// Output: Found at index (1,2)
