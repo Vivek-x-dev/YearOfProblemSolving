@@ -32,7 +32,7 @@ int main() {
         {27, 29, 37, 48}
     };
 
-    int key = 29;
+    int key = 27;
     staircaseSearch(arr, 3, 4, key);
     cout<<endl;
     return 0;
