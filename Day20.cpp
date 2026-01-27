@@ -33,7 +33,7 @@ dsa problem i stuck for a while in double for loop
 first for i --->j runs i-1 times
 then for i+1 --->j runs i times
 then for i+2 --->j runs i-1 times
+then for i+3 --->j runs i-2 times
 and so on ........
-
-
+finally total no of iterations = n(n-1)/2 = O(n^2)
 */
