@@ -6,12 +6,12 @@ Question : merge sort
 #include <vector>
 using namespace std;
 
-vector<int> merge (vector<int> right , vector<int> left ){
+vector<int> merge (const vector<int>& right , const vector<int>& left ){
 
     int i = 0 , j = 0;
     vector <int> result ;
 
-    while( i <= left.size() && j <= right.size() ){
+    while( i < left.size() && j < right.size() ){
         if (left[i]<right[j])
          result.push_back(left[i++]);
         else
