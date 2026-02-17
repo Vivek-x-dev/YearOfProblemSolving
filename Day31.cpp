@@ -33,7 +33,7 @@ int main(){
     quickSort(data ,0,data.size()-1);
 
     for (int x :data )
-    cout<< x << " ";
+    cout <<x << " ";
     cout <<endl;
 
     return 0;
